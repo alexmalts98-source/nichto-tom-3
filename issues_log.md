@@ -1,83 +1,112 @@
-# ISSUES LOG — «Ничто не вечно»
+# ЖУРНАЛ ПРОБЛЕМ — «Ничто не вечно», Том 3
 
 ---
 
-## HOW TO READ THIS FILE
+## КАК ЧИТАТЬ ЭТОТ ФАЙЛ
 
-Each world fact has a status:
-- **STABLE** — confirmed in two or more toms, not in doubt
-- **DISPUTED** — contradiction found, awaiting author decision
-- **EVOLVING** — intentional change, author-confirmed (see "Intentional Changes" section)
+Каждый факт мира имеет статус:
+- **STABLE** — подтверждён в двух и более томах, не вызывает сомнений
+- **DISPUTED** — найдено противоречие, ожидается решение автора
+- **EVOLVING** — намеренное изменение, подтверждённое автором (см. раздел «Намеренные изменения»)
 
-A contradiction is DISPUTED. Intentional character/world evolution is EVOLVING, not an error.
-
----
-
-## OPEN ISSUES (DISPUTED)
-
-*(empty — Tom 3 not yet loaded)*
+Противоречие — DISPUTED. Намеренная эволюция персонажа или мира — EVOLVING, не ошибка.
 
 ---
 
-## CLOSED ISSUES
+## ОТКРЫТЫЕ ПРОБЛЕМЫ (DISPUTED)
 
-*(empty)*
+*(пусто — заполнять по мере анализа)*
 
 ---
 
-## INTENTIONAL CHANGES (EVOLVING)
-> Record here what looks like a contradiction but is an authorial decision.
-> Critic does not touch these entries.
+## ЗАКРЫТЫЕ ПРОБЛЕМЫ
 
-*(empty — fill as work progresses)*
+*(пусто)*
 
-### Entry format:
+---
+
+## НАМЕРЕННЫЕ ИЗМЕНЕНИЯ (EVOLVING)
+> Фиксировать здесь то, что выглядит как противоречие, но является авторским решением.
+> Критик эти записи не трогает.
+
+*(пусто — заполнять по мере работы)*
+
+### Формат записи:
 ```
-### [E-001] Title
-WHAT CHANGED: ...
-BETWEEN: Tom X → Tom Y
-REASON (author's): ...
-DATE CONFIRMED: ...
+### [E-001] Название
+ЧТО ИЗМЕНИЛОСЬ: ...
+МЕЖДУ: Том X → Том Y
+ПРИЧИНА (авторская): ...
+ДАТА ПОДТВЕРЖДЕНИЯ: ...
 ```
 
 ---
 
-## STABLE CANON FACTS
-> For the critic: STABLE = reference point. Do not flag these as issues.
+## STABLE-КАНОН
+> Для критика: STABLE = точка отсчёта. Не флагить как проблему.
 
-### Characters
-- Iorveth is older than Ciaran by 6–8 years
-- Brothers are NOT blood-related
-- Both elves, ~70 years old in Tom 2
-- Gwynnet — settled elf, meets brothers in Tom 1
-- Triad (Gwynnet–Ciaran–Iorveth) begins in Tom 1, ch. 35
-- Ciaran — Iorveth's deputy in Tom 1; both commanders in Tom 2
-- Ilaesien — elf, wheat-colored hair, rear logistics organizer
+### Персонажи
 
-### World
-- Witcher universe as original
-- Greens vs Blacks (Nilfgaard) — main conflict
-- Fishtekh — sniffing substance, strong smell, Ciaran's habit
-- Fire hallucinations = poisoning or magic, not physiology
-- Women fight on equal footing
+- Иорвет старше Киарана на 6–8 лет
+- Братья НЕ связаны кровным родством
+- Оба эльфы; в Томах 1–2 им ~70 лет
+- Гвиннет — осевший эльф, встречается с братьями в Томе 1
+- Триада (Гвиннет–Киаран–Иорвет) начинается в Томе 1, гл. 35
+- Киаран — заместитель Иорвета в Томе 1; оба командиры в Томе 2
+- Илэйсиен — эльф, пшеничного цвета волосы, организатор тылового снабжения
+- Элессея ≠ Илэйсиен (разные персонажи, не путать)
+- Мэллель ≠ Илэйсиен (разные персонажи, не путать)
 
-### Chronology
-- Tom 3 = brothers' childhood/youth (before Tom 1)
-- Tom 1 = Gwynnet's arrival, triad formation
-- Tom 2 = ~one year after Tom 1
+### Мир
+
+- Вселенная Ведьмака как оригинал
+- Белки vs. Чёрные (Нильфгаард) — основной конфликт
+- Фисштех — нюхательное вещество, резкий запах, привычка Киарана. **В Томе 3 ОТСУТСТВУЕТ** — сейчас берберка с селитрой и табачные шарики. DISPUTED #003: когда переходит?
+- Галлюцинации от огня = отравление или магия, не физиология
+- Женщины воюют наравне с мужчинами
+
+### Хронология
+
+- Том 3 = детство/юность братьев (до Тома 1)
+- Том 1 = приход Гвиннет, формирование триады
+- Том 2 = ~год после Тома 1
+- Переворот Узурпатора — 1233: убит Фергус (отец Эмгыра вар Эмрейса). Граница после Тома 3.
+
+### Физические маркеры — STABLE
+
+**Иорвет:**
+- Выбритые виски и затылок — постоянный атрибут с академии
+- Белая накрахмаленная рубашка — маниакальная чистота
+- Лакированные сапоги, натирает воском
+- Лук — ОТСУТСТВУЕТ в Томе 3. Сам говорит «сделаем позже»
+
+**Киаран:**
+- Чёрные глаза, чёрные волосы, зачёсывает назад
+- Рисует ласточек — мать звала «Ласточкой»
+- Рисунок ласточки = личный знак, не флагить
+- Фисштех — ОТСУТСТВУЕТ в Томе 3 (берберка с селитрой)
+
+### Динамика Иорвет–Киаран — STABLE
+
+- Иорвет не осознаёт влечение к Киарану как влечение — только как раздражение и телесные реакции. До финала книги прямого признания нет.
+- Киаран в яви всегда управляет темпом провокации; паника и подчинение — только в снах
+- Прямой сексуальной разрядки между ними в Томе 3 нет — это структурообразующий элемент
+- Сон Киарана (гл. 36) — установленный мазохистский паттерн. STABLE.
+- Физическое насилие Иорвета — защитная агрессия, не садизм как влечение. STABLE.
+- Счёт «по имени»: к гл. 43 Иорвет называл Киарана по имени четыре раза за всю историю. STABLE.
 
 ---
 
-## ISSUE FORMAT
+## ФОРМАТ ЗАПИСИ ПРОБЛЕМЫ
 
 ```
-### #001
-TOPIC: [WORLD / CHARACTER / CHRONOLOGY / CAUSALITY / RETROCONTINUITY / DYNAMICS]
-SEVERITY: CRITICAL / MEDIUM / MINOR
-LOCATION: Tom 3, Chapter X, scene «...»
-PROBLEM: [exact description]
-CONFLICTS WITH: [reference to tom/chapter/STABLE rule]
-STATUS: DISPUTED / CLOSED / EVOLVING
-RESOLUTION: [if closed — how]
-DATE: ...
+### #[номер]
+ТЕМА: [МИР / ПЕРСОНАЖ / ХРОНОЛОГИЯ / ПРИЧИННОСТЬ / РЕТРОКОНТИНУИТИ / ДИНАМИКА]
+СЕРЬЁЗНОСТЬ: КРИТИЧНО / СРЕДНЕ / МИНОР
+МЕСТО: Том 3, Глава X, сцена «...»
+ПРОБЛЕМА: [точное описание]
+КОНФЛИКТ С: [ссылка на том/главу/STABLE-правило]
+СТАТУС: DISPUTED / ЗАКРЫТО / EVOLVING
+РАЗРЕШЕНИЕ: [если закрыто — как]
+ДАТА: ...
 ```
